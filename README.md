@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/sharayu-borkar/">
     <img src="https://img.shields.io/badge/LinkedIn-2147d1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sharayuborkar22@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sharayuborkar22@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-2147d1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
