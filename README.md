@@ -83,16 +83,6 @@ I design and build **production-grade AI systems** using **LLMs, agentic workflo
 
 ---
 
-## 🧭 Engineering Philosophy
-- Prompts are **first-class code**
-- Deterministic systems around probabilistic models
-- AI decisions must be **bounded and observable**
-- CI/CD is part of system reliability
-- Failures are expected and designed for
-- Clean Git history improves long-term trust
-
----
-
 ## 🧪 Background
 - **Senior GenAI Developer / AI Systems Architect** (2022 – Present)
 - Strong Python backend foundation
