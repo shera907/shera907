@@ -11,10 +11,10 @@
 
 <!-- ===================== SOCIAL ICONS ===================== -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="[https://github.com/shera907](https://github.com/shera907)">
     <img src="https://img.shields.io/badge/GitHub-2147d1?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/sharayu-borkar/)">
     <img src="https://img.shields.io/badge/LinkedIn-2147d1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sharayuborkar22@gmail.com">
@@ -24,12 +24,12 @@
 
 <!-- ===================== GITHUB STATS (WORKING) ===================== -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shera907&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shera907&theme=github" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</p>
 
 ---
 
@@ -55,20 +55,23 @@ I design and build **production-grade AI systems** using **LLMs, agentic workflo
 </p>
 
 <p align="center"> 
+  <img src="https://img.shields.io/badge/AI_Automation-2147d1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-2147d1?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Backend_Engineering-2147d1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI_Systems_Architecture-2147d1?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Workflow_Orchestration-2147d1?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Observability-2147d1?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Failure_Aware_Design-2147d1?style=for-the-badge"/> 
+   <img src="https://img.shields.io/badge/CI/CD-2147d1?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Python-2147d1?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Backend_Engineering-2147d1?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/CI/CD-2147d1?style=for-the-badge&logo=githubactions&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Workflow_Orchestration-2147d1?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Observability-2147d1?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Failure_Aware_Design-2147d1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git_Governance-2147d1?style=for-the-badge"/> 
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2147d1&height=2&section=footer">
+</p>
 
 ## 🗂️ Repository Focus (At a Glance)
 
@@ -90,6 +93,8 @@ I design and build **production-grade AI systems** using **LLMs, agentic workflo
 - **M.A. Psychology (ongoing)** — human cognition & human-centred AI
 - B.E. Information Technology
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</p>
 
 ⭐ Open to **Senior GenAI Engineer, LLM Engineer, AI Systems Engineer, and Agentic AI roles** (US / UK / UAE / INDIA / Remote / Hybrid / Contract / Full-time).
