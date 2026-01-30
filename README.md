@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I’m Sharayu Borkar</h1>
 
 <p align="center">
-  <strong>Senior GenAI Developer · AI Systems Architect · LLM & Agentic AI</strong>
+  <strong>Senior GenAI Developer  ·  AI Systems Architect  ·  LLM & Agentic AI</strong>
 </p>
 
 <p align="center">
@@ -11,15 +11,19 @@
 
 <!-- ===================== SOCIAL ICONS ===================== -->
 <p align="center">
-  <a href="[https://github.com/shera907](https://github.com/shera907)">
+  <a href="https://github.com/shera907">
     <img src="https://img.shields.io/badge/GitHub-2147d1?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/sharayu-borkar/)">
+  <a href="https://www.linkedin.com/in/sharayu-borkar/">
     <img src="https://img.shields.io/badge/LinkedIn-2147d1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sharayuborkar22@gmail.com">
     <img src="https://img.shields.io/badge/Email-2147d1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2147d1&height=2&section=footer">
 </p>
 
 <!-- ===================== GITHUB STATS (WORKING) ===================== -->
@@ -72,6 +76,8 @@ I design and build **production-grade AI systems** using **LLMs, agentic workflo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2147d1&height=2&section=footer">
 </p>
+
+---
 
 ## 🗂️ Repository Focus (At a Glance)
 
