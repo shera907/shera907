@@ -1,5 +1,6 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">👋 Hi, I’m Sharayu Borkar</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+Hi, I’m Sharayu Borkar</h1>
 
 <p align="center">
   <strong>Senior GenAI Developer  ·  AI Systems Architect  ·  LLM & Agentic AI</strong>
@@ -37,15 +38,31 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="65%" valign="left">
+
 ## 🧠 About Me
-I design and build **production-grade AI systems** using **LLMs, agentic workflows, and AI automation**, with a strong focus on:
+
+I design and build <strong>production-grade AI systems</strong> using <strong>LLMs, agentic workflows, and AI automation</strong>, with a strong focus on:
 
 - Reliability & scalability  
 - Cost and latency optimisation  
 - Failure-aware system design  
 - CI/CD, Git governance, and clean engineering workflows  
 
-> I focus on AI systems that work in production — not demos.
+<blockquote>
+I focus on AI systems that work in production — not demos.
+</blockquote>
+
+   </td>
+    <td width="35%" align="right">
+
+<img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="350" />
+
+  </td>
+  </tr>
+</table>
 
 ---
 
