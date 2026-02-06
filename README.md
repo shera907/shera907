@@ -3,7 +3,7 @@
 Hi, I’m Sharayu Borkar</h1>
 
 <p align="center">
-  <strong>Senior GenAI Developer  ·  AI Systems Architect  ·  LLM & Agentic AI</strong>
+  <strong>Senior GenAI Developer  ·  RAG & Knowledge Systems  ·  LLM & Agentic AI</strong>
 </p>
 
 <p align="center">
