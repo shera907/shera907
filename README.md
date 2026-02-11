@@ -96,19 +96,6 @@ I focus on AI systems that work in production — not demos.
 
 ---
 
-## 🗂️ Repository Focus (At a Glance)
-
-- **`ai-production-system`** → Shipping reliable, CI-governed GenAI systems  
-- **`agentic-ai-orchestrator`** → Designing controlled agentic AI (planning, state, tools)  
-- **`ai-automation-engine`** → Event-driven AI automation with safe fallbacks  
-- **`production-git-playbook`** → Git & GitHub standards for production teams  
-- **`ai-experiments-lab`** → Isolated experiments on prompts, RAG, agents, failures  
-- **`llm-utils`** → Reusable primitives for validation, retries, confidence & cost  
-
-> Each repo has a **single responsibility** — no mixing experiments with production.
-
----
-
 ## 🧪 Background
 - **Senior GenAI Developer / AI Systems Architect** (2022 – Present)
 - Strong Python backend foundation
